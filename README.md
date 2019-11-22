@@ -28,15 +28,13 @@ properties and appeal.
 
 Download:
 ---------
-```
 The tool is currently offered as binary executable for Unix/Linux and
 Microsoft Windows systems.
 
 Unix/Linux download: https://ecelab.org/gds2svg_linux
-    Requires GLIBC (libc.so.6) version 2.25 or higher. Tested on Ubuntu 18.04.
+<br>&nbsp; &nbsp; Requires GLIBC (libc.so.6) version 2.25 or higher. Tested on Ubuntu 18.04.
 
 Windows 7/8/10 32/64bit download: https://ecelab.org/gds2svg_win
-```
 
 Usage:
 ------
