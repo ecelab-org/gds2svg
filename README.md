@@ -95,7 +95,7 @@ Optional arguments:
                         design will be scaled by such factor so that its largest
                         side will fit to the smallest of "max_width",
                         "max_height"; should be integer; if omitted, is set to
-                        1920 by default.
+                        4000 by default.
 --pdf:                  Generates a pdf, in addition to svg file; requires
                         "inkscape" installed.
 -h or --help:           This screen.
