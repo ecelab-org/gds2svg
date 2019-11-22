@@ -1,12 +1,14 @@
+```
                          GDSII to svg utility
                         Provided by ecelab.org
                 Copyright © 2019. All rights reserved.
 
 Version 1.0.0
 
-
+```
 Intro:
 ------
+```
 This utility enables plotting of any module/cell included in a GDSII file to
 Scalable Vector Graphics. The output is an .svg file which can be opened with
 any browser or other svg viewer applications.
@@ -22,10 +24,11 @@ Instead, a teacher/presenter/instructor can use an svg representation of the
 circuit and have unlimited "zoom" to study/examine the layout. Researchers can
 embed svg layout images to their research paper, greatly increasing its visual
 properties and appeal.
-
+```
 
 Download:
 ---------
+```
 The tool is currently offered as binary executable for Unix/Linux and
 Microsoft Windows systems.
 
@@ -33,13 +36,14 @@ Unix/Linux download: https://ecelab.org/gds2svg_linux
     Requires GLIBC (libc.so.6) version 2.25 or higher. Tested on Ubuntu 18.04.
 
 Windows 7/8/10 32/64bit download: https://ecelab.org/gds2svg_win
-
+```
 
 Usage:
 ------
+```
 This is a command line tool. Unzip the bundled file to your target directory
 and run the executable. The filename of the executable is "gds2svg" for the
-\*nix version and "gds2svg.exe" for the Windows version.
+*nix version and "gds2svg.exe" for the Windows version.
 
 The layer mapping and target coloring configuration are defined in a separate
 file, named "layers.cfg". An example of the layer mapping and default colors
@@ -96,3 +100,4 @@ Optional arguments:
                         "inkscape" installed.
 -h or --help:           This screen.
 _______________________
+```
